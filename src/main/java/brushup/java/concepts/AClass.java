@@ -13,6 +13,11 @@ public class AClass {
         int sum = a+b;
         System.out.println("Sum = " + sum);
 
+        //GitDemo3 changes
+        System.out.println("GitDemo3 added this print line");
+
+
+
         // Assume we want to validate pages heather, header will be the same for every page, instead of repeating the same code many times for different page class
         // we can just create a class for header or just a method in a class the contain features common for lost of page and call this method for each class needed
         // in this example here.
