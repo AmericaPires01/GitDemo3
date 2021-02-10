@@ -16,6 +16,9 @@ public class AClass {
         //GitDemo3 changes
         System.out.println("GitDemo3 added this print line");
 
+        //GitJava Changes
+        System.out.println("GitJava(Project owner) added this print statement. GitJava is the oe who created GitDemo3 repository in GitHub, so anyone can lone it to collaborate.");
+
 
 
         // Assume we want to validate pages heather, header will be the same for every page, instead of repeating the same code many times for different page class
