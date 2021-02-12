@@ -22,4 +22,8 @@ public class BClass {
         return number ; /// I have to return integer
     }
 
+    public void testArchitectFramework(){
+        System.out.println("GitJava created Architect branch and playing up as an architect added this method to print statement");
+    }
+
 }
