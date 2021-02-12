@@ -24,6 +24,7 @@ public class BClass {
 
     public void testArchitectFramework(){
         System.out.println("GitJava created Architect branch and playing up as an architect added this method to print statement");
+        System.out.println("GitDemo3 paying up as (Architect Framework building) team member adds this print statement");
     }
 
 }
